@@ -1,3 +1,3 @@
 # astroid.gg
 click the link and have fun!
-<img>logo.png<img>
+![Alt text](logo.png)
